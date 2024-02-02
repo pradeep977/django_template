@@ -1,0 +1,12 @@
+# virtual environment
+venv
+
+# db
+db.sqlite3
+
+# environment variables
+
+config/local.py
+
+# ignore temp files
+*.pyc
