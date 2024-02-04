@@ -45,6 +45,7 @@ pexpect                 4.8.0
 Pillow                  9.0.1
 pip                     22.0.2
 protobuf                3.12.4
+psycopg2-binary         2.9.9
 ptyprocess              0.7.0
 pycairo                 1.20.1
 pycups                  2.0.1
